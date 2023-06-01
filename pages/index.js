@@ -34,7 +34,7 @@ const ProgramWelcomeSection = () => {
       marginTop: '3rem',
     }}
     >
-      SKILLHOB PATNERSHIP PROGRAM  (SSP-2023)
+      SKILLHOB PATNERSHIP PROGRAM  (SPP-2023)
     </h1>
 
     
